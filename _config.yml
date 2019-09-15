@@ -1,5 +1,5 @@
-title: Something # The title of the blog
-author: Ari Goins # Your name 
+title: Something. # The title of the blog
+author: Ari # Your name 
 email: # your-email@domain.com # your email shown in the footer
 url: "https://arigoins.github.io" # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -11,7 +11,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
-  avatar_url: "" # avatar in about page
+  #avatar_url: "" # avatar in about page
   about_you: #a short description about you. # short description about you in about page
   date_format: "%b %d" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
